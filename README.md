@@ -9,10 +9,10 @@ Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] (In that order).
 </picture>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=glovek08&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=glovek08&theme=transparent&card_width=110" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glovek08&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glovek08&layout=compact&langs_count=8&card_width=300&theme=transparent" />
 </a>
 
 
