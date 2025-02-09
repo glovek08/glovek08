@@ -7,6 +7,5 @@ Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] (In that order).
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-red-light.svg">
  <img alt="Banner graphical line" src="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovek08&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
