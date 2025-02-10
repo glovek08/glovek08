@@ -17,6 +17,11 @@ Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] 🇨🇳[Hanyu](I
  <img alt="Banner graphical line" src="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
 </picture>
 <p align=center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+
+
 
 ---
 
