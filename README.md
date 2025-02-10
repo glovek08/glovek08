@@ -9,7 +9,7 @@
 你好呀, 代码星际旅行者! 🌌
 在这个神秘的角落，你会发现各种奇奇怪怪的东西。准备好进入吗？🤖 <br />
 I'm From Montevideo, Uruguay 🇺🇾🇺🇾🇺🇾 land of the funny plant 🥦🥦🥦! <br />
-Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] 🇨🇳[Hanyu](In that order).<br />
+Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] 🇨🇳[Hanyu] (In that order).<br />
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
