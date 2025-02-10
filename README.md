@@ -1,20 +1,22 @@
 # 👾 Welcome to my coding journey 🚀
-
-### 你好呀, 代码星际旅行者! 🌌
+<p align="center">
+  <a href="https://theodinproject.com" target="_blank">
+    <img height="100" src="https://cdn.statically.io/gh/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/odin-lined.png"/>
+  </a><br />
+ 我的母校是 THE ODIN PROJECT 😎<br />
+ LOVE U GUYS!!!
+</p>
+你好呀, 代码星际旅行者! 🌌
 在这个神秘的角落，你会发现各种奇奇怪怪的东西。准备好进入吗？🤖 <br />
 I'm From Montevideo, Uruguay 🇺🇾🇺🇾🇺🇾 land of the funny plant 🥦🥦🥦! <br />
-Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] 🇨🇳[Hanyu](In that order).
+Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] 🇨🇳[Hanyu](In that order).<br />
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-red-light.svg">
  <img alt="Banner graphical line" src="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
 </picture>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=glovek08&theme=transparent&card_width=110" />
-</a>
-<p align=right>
+<p align=center>
 
 ---
 
@@ -51,9 +53,12 @@ Lang: 🇪🇸[Spanish] 🇬🇧[English] 🇵🇹[Portuguese] 🇨🇳[Hanyu](I
 - 如果你看到任何奇怪的东西，可能是代码在寻找新的生命形态。请小心。⚠️
 
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=glovek08&theme=transparent&card_width=110" />
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glovek08&layout=compact&langs_count=8&card_width=300&theme=transparent" />
-</a>
+</a><br />
 
 
 
