@@ -1,4 +1,5 @@
-# 👾 Welcome to my Coding Journey 🚀
+<img src="https://www.simtropolis.com/objects/storage/monthly_2021_04/607283471f977_NobiscoBanner.jpg.bc0519ec7afe34f79856c936b1b74fa1.jpg" alt="SimCity 4 Banner" style="width: 100%; height: 150px; object-fit: none;"/>
+<h1>👾 Welcome to my Coding Journey 🚀</h1>
 I'm Gabriel, a student @ Holberton School MVD. <br />
 I'm From Montevideo, Uruguay 🇺🇾🇺🇾🇺🇾 land of the funny plant 🥦🥦🥦! <br />
 Lang: 🇪🇸[Spanish]  🇬🇧[English]  🇵🇹[Portuguese]  🇨🇳[Hanyu] (In that order).<br />
@@ -41,7 +42,7 @@ Lang: 🇪🇸[Spanish]  🇬🇧[English]  🇵🇹[Portuguese]  🇨🇳[Hanyu
 
 ## 🦄 My Favorite Languages (In descending order).
 - **Js**: I love working with Js, although it seems to do whatever it wants. 
-- **CSS**: I'm in love with CSS thanks to Kevin Powell and Josh Comeau.
+- **CSS**: I'm in love with CSS thanks to Kevin Powell and Josh Comeau. (If you think CSS is not a language, we can't be friends).
 - **C**: Yes.
 - **Python**: Actually, kind of hate it.
 ---
