@@ -14,8 +14,16 @@ Lang: 🇪🇸[Spanish]  🇬🇧[English]  🇵🇹[Portuguese]  🇨🇳[Hanyu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40"/>
-<img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="Bash" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40"/>
+
+---
+
+<p align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1088px-Vimlogo.svg.png" alt="Vim" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" alt="Code:Blocks" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Vscode" width="40"/>
+<img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="Bash" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1024px-Linux_Mint_logo_without_wordmark.svg.png?20211107101027" alt="Linux Mint" width="40"/>
 
 
 
