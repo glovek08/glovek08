@@ -9,64 +9,53 @@ Lang: 🇪🇸[Spanish]  🇬🇧[English]  🇵🇹[Portuguese]  🇨🇳[Hanyu
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-red-light.svg">
  <img alt="Banner graphical line" src="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
 </picture>
-<p align=center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" title="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" title="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="35" height="40" title="C"/>
-
----
-
-<p align=center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1088px-Vimlogo.svg.png" alt="Vim" width="40" height="40" title="Vim"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" alt="Code::Blocks" width="40" height="40" title="Code::Blocks"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Vscode" width="40" height="40" title="Visual Studio Code"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png?20170914142615" alt="Sublime" width="40" height="40" title="Sublime Text"/>
-<img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="Bash" width="40" height="40" title="Bash"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1024px-Linux_Mint_logo_without_wordmark.svg.png?20211107101027" alt="Linux Mint" width="40" height="40" title="Linux Mint"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/1024px-Termux.svg.png" alt="Termux" width="40" height="40" title="Termux"/>
-
-
-
 
 
 ---
 
-## 🧠 My Thoughts.
+<div align="center">
 
-- My head is full of code, mate and a bunch of questions.
-- I'm a Linux enthusiast. Tux is my favorite pokemon. 🐧 
-- My projects are trash. 💩
-- I'm good at naming things. 🤓
+  ![Static Badge](https://img.shields.io/badge/JavaScript-feed19?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto&labelColor=feed19)
+  ![Static Badge](https://img.shields.io/badge/HTML-e24d2e?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=e24d2e)
+  ![Static Badge](https://img.shields.io/badge/CSS-493bd5?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&labelColor=493bd5)
+  ![Static Badge](https://img.shields.io/badge/C-2b60c9?style=for-the-badge&logo=c&logoColor=white&logoSize=auto&labelColor=2b60c9)
 
----
+  <br>
 
-## 🦄 My Favorite Languages (In descending order).
-- **Js**: I love working with Js, although it seems to do whatever it wants. 
-- **CSS**: I'm in love with CSS thanks to Kevin Powell and Josh Comeau. (If you think CSS is not a language, we can't be friends).
-- **C**: Yes.
-- **Python**: Actually, kind of hate it.
----
+  ![Static Badge](https://img.shields.io/badge/Linux%20Mint-%2386BE43?style=for-the-badge&logo=linuxmint&logoColor=white&logoSize=auto&labelColor=%2386BE43)
+  ![Static Badge](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&logoSize=auto&labelColor=019733)
+  ![Static Badge](https://img.shields.io/badge/Code%3A%3ABlocks-%2341AD48?style=for-the-badge&logo=codeblocks&logoColor=white&logoSize=auto&labelColor=%2341AD48)
+  ![Static Badge](https://img.shields.io/badge/Sublime-%23FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&logoSize=auto&labelColor=%23FF9800)
+  ![Static Badge](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)
+  ![Static Badge](https://img.shields.io/badge/Termux-%23000000?style=for-the-badge&logo=gnometerminal&logoColor=white&logoSize=auto&labelColor=%23000000)
 
-## 🤖 Goals.
+</div>
+
+
+## Goals.
 - Land my first Job.
 - Collab in interesting projects.
 - Make a SimCity 4 Megamod.
 
 ---
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=glovek08&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+
 <p align="center">
- <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Umbrella Corporation Banner" width="100px" />
+ <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Tux backflip" width="100px" />
  <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Umbrella Corporation Banner" width="100px" />
  <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Umbrella Corporation Banner" width="100px" />
  <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Umbrella Corporation Banner" width="100px" />
  </p>
-</p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+ <div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=glovek08&theme=transparent&card_width=110" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glovek08&layout=compact&langs_count=8&card_width=300&theme=transparent" />
-</a><br />
+</a>
+ </div>
 <br />
 <br />
 <p align="center">
