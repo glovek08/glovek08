@@ -42,10 +42,7 @@ Lang: 🇪🇸[Spanish]  🇬🇧[English]  🇵🇹[Portuguese]  🇨🇳[Hanyu
 
 
 <p align="center">
- <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Tux backflip" width="100px" />
- <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Umbrella Corporation Banner" width="100px" />
- <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Umbrella Corporation Banner" width="100px" />
- <img src="https://ftp.psu.ac.th/pub/linux-logo/linloga.gif" alt="Umbrella Corporation Banner" width="100px" />
+ <img src="https://www.animatedimages.org/data/media/1618/animated-tux-image-0136.gif" alt="Tux trampoline" width="100px" />
  </p>
 
  <div align="center">
