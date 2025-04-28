@@ -15,9 +15,9 @@ Lang: 🇪🇸[Spanish]  🇬🇧[English]  🇵🇹[Portuguese]  🇨🇳[Hanyu
 <div align="center">
 
   ![Static Badge](https://img.shields.io/badge/JavaScript-feed19?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto&labelColor=feed19)
-  ![Static Badge](https://img.shields.io/badge/HTML-e24d2e?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=e24d2e)
-  ![Static Badge](https://img.shields.io/badge/CSS-493bd5?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&labelColor=493bd5)
+  ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&labelColor=%23CC6699)
   ![Static Badge](https://img.shields.io/badge/C-2b60c9?style=for-the-badge&logo=c&logoColor=white&logoSize=auto&labelColor=2b60c9)
+  ![Static Badge](https://img.shields.io/badge/Python-%2339719c?style=for-the-badge&logo=python&logoColor=%23ffce41&logoSize=auto&labelColor=%2339719c)
 
   <br>
 
