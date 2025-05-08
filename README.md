@@ -23,18 +23,12 @@ Lang: 🇪🇸[Spanish]  🇬🇧[English]  🇵🇹[Portuguese]  🇨🇳[Hanyu
 
   ![Static Badge](https://img.shields.io/badge/Linux%20Mint-%2386BE43?style=for-the-badge&logo=linuxmint&logoColor=white&logoSize=auto&labelColor=%2386BE43)
   ![Static Badge](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&logoSize=auto&labelColor=019733)
-  ![Static Badge](https://img.shields.io/badge/Code%3A%3ABlocks-%2341AD48?style=for-the-badge&logo=codeblocks&logoColor=white&logoSize=auto&labelColor=%2341AD48)
+  ![Static Badge](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)
   ![Static Badge](https://img.shields.io/badge/Sublime-%23FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&logoSize=auto&labelColor=%23FF9800)
   ![Static Badge](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)
   ![Static Badge](https://img.shields.io/badge/Termux-%23000000?style=for-the-badge&logo=gnometerminal&logoColor=white&logoSize=auto&labelColor=%23000000)
 
 </div>
-
-
-## Goals.
-- Land my first Job.
-- Collab in interesting projects.
-- Make a SimCity 4 Megamod.
 
 ---
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=glovek08&bg_color=0000000&color=0066ff&line=2980b9&point=f58217&area_color=0066ff&area=true&hide_border=true)
