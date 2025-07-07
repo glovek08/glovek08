@@ -29,7 +29,6 @@
   ![Static Badge](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)
   ![Static Badge](https://img.shields.io/badge/Sublime-%23FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&logoSize=auto&labelColor=%23FF9800)
   ![Static Badge](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)
-  ![Static Badge](https://img.shields.io/badge/Termux-%23000000?style=for-the-badge&logo=gnometerminal&logoColor=white&logoSize=auto&labelColor=%23000000)
 
 </div>
 
