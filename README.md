@@ -1,17 +1,18 @@
-<img src="https://www.simtropolis.com/objects/storage/monthly_2021_04/607283471f977_NobiscoBanner.jpg.bc0519ec7afe34f79856c936b1b74fa1.jpg" alt="SimCity 4 Banner" style="width: 100%; height: 150px; object-fit: none;"/>
+<h1 align="center">Welcome Stranger</h1>
+
 <div align="center">
-<h1>Welcome Stranger</h1>
+
+  <img src="https://i.ibb.co/99PcscnG/Merchant-re4.png" alt="RE Merchant with noob tech stack" height="400px"/>
+ 
+</div>
 
 </div>
 
-<picture>
+<!--<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-red-light.svg">
  <img alt="Banner graphical line" src="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
-</picture>
-
-
----
+</picture><-->
 
 <div align="center">
 
@@ -24,6 +25,7 @@
 
   <br>
 
+# ENV
   ![Static Badge](https://img.shields.io/badge/Linux%20Mint-%2386BE43?style=for-the-badge&logo=linuxmint&logoColor=white&logoSize=auto&labelColor=%2386BE43)
   ![Static Badge](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&logoSize=auto&labelColor=019733)
   ![Static Badge](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)
