@@ -57,6 +57,12 @@
 Holla to my brothers at The Odin Project<br />
  LOVE U GUYS!!
 </p>
+
+<div align="center">
+ 
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=views&labelColor=%23d9e3f0&countColor=%23555555&style=flat&labelStyle=upper)
+
+</div>
 <small>optimized for dark theme.</small>
 
 
