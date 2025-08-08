@@ -14,15 +14,14 @@
  <img alt="Banner graphical line" src="https://raw.githubusercontent.com/glovek08/glovek08/refs/heads/main/line-blue_dark.svg">
 </picture><-->
 
-# Stack: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)![Playstation](https://img.shields.io/badge/Playstation%202-000000?style=for-the-badge&logo=playstation&logoColor=white)
+### Stack ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)![Playstation](https://img.shields.io/badge/Playstation%202-000000?style=for-the-badge&logo=playstation&logoColor=white)
 
 
 
-# Env:   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-639e27?style=for-the-badge&logo=Linux%20Mint&logoColor=white)![Static Badge](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)![Static Badge](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+### Natural Habitat ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-639e27?style=for-the-badge&logo=Linux%20Mint&logoColor=white)![Static Badge](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)![Static Badge](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
 
 
-### VC Tools:
-[![LangGraph](./langgraph-logo.svg)](https://www.langchain.com/langgraph) [![ClaudeCode](./claude-code-logo.svg)](https://www.anthropic.com/claude-code)
+### VC Tools [![LangGraph](./langgraph-logo.svg)](https://www.langchain.com/langgraph) [![ClaudeCode](./claude-code-logo.svg)](https://www.anthropic.com/claude-code)
 
 # Contact: ![discord](https://img.shields.io/badge/discord-gabrielbarn-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 
