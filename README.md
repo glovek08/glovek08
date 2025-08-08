@@ -18,10 +18,11 @@
 
 
 
-# Env:   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-639e27?style=for-the-badge&logo=Linux%20Mint&logoColor=white)![Static Badge](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)![Static Badge](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)![Claude Code Badge](https://img.shields.io/badge/Claude_Code-d8900f?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=d8900f)![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+# Env:   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-639e27?style=for-the-badge&logo=Linux%20Mint&logoColor=white)![Static Badge](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)![Static Badge](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
 
 
-
+### VC Tools:
+[![LangGraph](./langgraph-logo.svg)](https://www.langchain.com/langgraph) [![ClaudeCode](./claude-code-logo.svg)](https://www.anthropic.com/claude-code)
 
 # Contact: ![discord](https://img.shields.io/badge/discord-gabrielbarn-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 
