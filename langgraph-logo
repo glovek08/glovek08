@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40" role="img" aria-label="LangGraph">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#6F4FF2"/>
+      <stop offset="1" stop-color="#4AC0FF"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #0b1220; opacity: 0.92; }
+      .text { font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; fill: #fff; }
+      .label { font-size: 12px; font-weight: 700; }
+      .sub { font-size: 11px; font-weight: 500; opacity: 0.9; }
+      .node { stroke: none; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="180" height="40" rx="6" />
+
+  <!-- icon: graph nodes -->
+  <g transform="translate(10,7)">
+    <circle class="node" cx="6" cy="7" r="4" fill="url(#g)"/>
+    <circle class="node" cx="22" cy="7" r="3" fill="#2b2f3a"/>
+    <circle class="node" cx="16" cy="17" r="3.5" fill="#2b2f3a"/>
+    <!-- Line from center of first to second node -->
+    <path d="M6 7 L22 7" stroke="#9fb1ff" stroke-width="1.2" stroke-linecap="round" opacity="0.9"/>
+    <!-- Line from center of first to third node -->
+    <path d="M6 7 L16 17" stroke="#7be0ff" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/>
+  </g>
+
+  <!-- text -->
+  <g transform="translate(42,9)">
+    <text x="0" y="9" class="text label">LangGraph</text>
+    <text x="0" y="20" class="text sub" fill="#b8c6ff">orchestrate LLM agents</text>
+  </g>
+</svg>
