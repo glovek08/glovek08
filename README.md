@@ -10,23 +10,14 @@
 
 
 ### WIP Stack
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
   
 </div>
 
 <div align="center">
   
 ### Tools & Natural Habitat
-  ![Kubuntu](https://img.shields.io/badge/Kubuntu-0077C4?style=for-the-badge&logo=Kubuntu&logoColor=white)
-  ![VSCodium](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)
-  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-  ![Warp](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
-  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
+  ![Kubuntu](https://img.shields.io/badge/Kubuntu-0077C4?style=for-the-badge&logo=Kubuntu&logoColor=white)![VSCodium](https://img.shields.io/badge/vscodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=%232F80ED)![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)![Warp](https://img.shields.io/badge/Warp-%2301A4FF?style=for-the-badge&logo=warp&logoColor=white&logoSize=auto&labelColor=%2301A4FF)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
   
 </div>
 
