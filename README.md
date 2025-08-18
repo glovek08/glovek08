@@ -47,7 +47,7 @@
 
 <div align="center">
   
-  [![WakaTime stats](https://wakatime.com/badge/user/63b20a4e-5b59-4d73-b9cb-b538e68137e5.svg)](https://wakatime.com/@63b20a4e-5b59-4d73-b9cb-b538e68137e5)
+ [![wakatime](https://wakatime.com/badge/user/63b20a4e-5b59-4d73-b9cb-b538e68137e5.svg)](https://wakatime.com/@63b20a4e-5b59-4d73-b9cb-b538e68137e5)
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=views&labelColor=%23d9e3f0&countColor=%23555555&style=flat&labelStyle=upper)
   
   <p>
