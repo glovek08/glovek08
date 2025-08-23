@@ -22,14 +22,6 @@
 </div>
 
 <div align="center">
-  
-  ### VC Tools
-  [![LangGraph](./langgraph-logo.svg)](https://www.langchain.com/langgraph) 
-  [![ClaudeCode](./claude-code-logo.svg)](https://www.anthropic.com/claude-code)
-  
-</div>
-
-<div align="center">
 
   ### Contact
 
