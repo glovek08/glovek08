@@ -26,6 +26,8 @@
 ![Warp](https://img.shields.io/badge/Warp-0d1117?style=flat-square&logo=warp&logoColor=70B7FF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8798E6)
 ![Cypress](https://img.shields.io/badge/Cypress-0d1117?style=flat-square&logo=Cypress&logoColor=71DE76)
+![DBeaver](https://img.shields.io/badge/DBeaver-0d1117?style=flat-square&logo=DBeaver&logoColor=F08469)
+
 
   
 </div>
