@@ -99,6 +99,23 @@
 <br>
 
 <div align="center">
+
+  <div align="center">
+    <a href="https://wakatime.com/@63b20a4e-5b59-4d73-b9cb-b538e68137e5">
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/8b8812e1-48c7-4d59-84f7-cd2e22bc3c3b.svg" 
+        />
+        <img 
+          alt="WakaTime stats" 
+          src="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/66873f14-5f91-4b54-966f-3592d70cfde3.svg" 
+          width="600" 
+        />
+      </picture>
+    </a>
+  </div>
+
   <a href="https://wakatime.com/@63b20a4e-5b59-4d73-b9cb-b538e68137e5">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/badge/user/63b20a4e-5b59-4d73-b9cb-b538e68137e5.svg?style=for-the-badge&labelColor=0d1117&color=0d1117">
