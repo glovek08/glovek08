@@ -124,7 +124,7 @@
   </a>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=VIEWS&labelColor=0d1117&countColor=0d1117&style=flat-square&labelTextColor=00BFFF&countTextColor=00BFFF">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=Souls%20Claimed&labelColor=0d1117&countColor=0d1117&style=flat-square&labelTextColor=00BFFF&countTextColor=00BFFF">
     <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=VIEWS&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=0366d6&countTextColor=0366d6">
   </picture>
   <br>
