@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=A1C6E3&height=90&section=header"/>
@@ -8,20 +9,17 @@
   # WELCOME! Stranger...
   <img src="https://i.ibb.co/99PcscnG/Merchant-re4.png" alt="RE Merchant with noob tech stack" height="400px"/>
 </div>
-
+-->
+  
+<h2 align="center">Welcome Stranger!</h2>
 
 
 <div align="center">
   <h3>Stack</h3>
-  
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Javascript-0d1117?style=flat-square&logo=javascript&logoColor=FFD685&color=0d1117">
-    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-ffffff?style=flat-square&logo=javascript&logoColor=DBB014&color=ffffff">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=Python&logoColor=61C8FF&color=0d1117">
-    <img alt="Python" src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=3776AB&color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688&color=0d1117">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=009688&color=ffffff">
   </picture>
   
   <picture>
@@ -30,12 +28,12 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySql-0d1117?style=flat-square&logo=MySql&logoColor=618EFF&color=0d1117">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=MySql&logoColor=618EFF&color=0d1117">
     <img alt="MySQL" src="https://img.shields.io/badge/MySql-ffffff?style=flat-square&logo=MySql&logoColor=4479A1&color=ffffff">
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Svelte-0d1117?style=flat-square&logo=Svelte&logoColor=FF9247&color=0d1117">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Svelte%205-0d1117?style=flat-square&logo=Svelte&logoColor=FF9247&color=0d1117">
     <img alt="Svelte" src="https://img.shields.io/badge/Svelte-ffffff?style=flat-square&logo=Svelte&logoColor=FF3E00&color=ffffff">
   </picture>
 </div>
@@ -128,10 +126,8 @@
     <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=VIEWS&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=0366d6&countTextColor=0366d6">
   </picture>
   <br>
-  <p>
 <!--     <img src="https://www.animatedimages.org/data/media/1618/animated-tux-image-0136.gif" alt="Tux trampoline" width="100px" /> -->
-    <img src="https://art.ngfiles.com/images/2493000/2493414_constantaura_tux-from-linux.gif?f1651352405" alt="Tux Smile" width="100px"/>
-  </p>
+<!--     <img src="https://art.ngfiles.com/images/2493000/2493414_constantaura_tux-from-linux.gif?f1651352405" alt="Tux Smile" width="100px"/> -->
 
   <a href="https://theodinproject.com" target="_blank">
     <picture>
