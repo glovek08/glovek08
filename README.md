@@ -10,6 +10,15 @@
   
 <h2 align="center">Welcome Stranger!</h2>
 
+<div align="center">
+  
+  [![My Profile BG song](https://img.shields.io/badge/My%20Profile%20BG%20song-8B0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TvK8f_Wz5Zg&list=RDTvK8f_Wz5Zg)
+
+</div>
+
+
+
+
 
 <div align="center">
   <h3>Stack</h3>
@@ -123,7 +132,7 @@
     <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=VIEWS&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=0366d6&countTextColor=0366d6">
   </picture>
   
-  [![committers.top badge](https://user-badge.committers.top/uruguay/glovek08.svg)](https://user-badge.committers.top/uruguay/glovek08)
+  <!--[![committers.top badge](https://user-badge.committers.top/uruguay/glovek08.svg)](https://user-badge.committers.top/uruguay/glovek08)-->
   <br>
 <!--     <img src="https://www.animatedimages.org/data/media/1618/animated-tux-image-0136.gif" alt="Tux trampoline" width="100px" /> -->
 <!--     <img src="https://art.ngfiles.com/images/2493000/2493414_constantaura_tux-from-linux.gif?f1651352405" alt="Tux Smile" width="100px"/> -->
