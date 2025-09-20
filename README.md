@@ -122,6 +122,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=Souls%20Claimed&labelColor=0d1117&countColor=0d1117&style=flat-square&labelTextColor=00BFFF&countTextColor=00BFFF">
     <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=VIEWS&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=0366d6&countTextColor=0366d6">
   </picture>
+  
+  [![committers.top badge](https://user-badge.committers.top/uruguay/glovek08.svg)](https://user-badge.committers.top/uruguay/glovek08)
   <br>
 <!--     <img src="https://www.animatedimages.org/data/media/1618/animated-tux-image-0136.gif" alt="Tux trampoline" width="100px" /> -->
 <!--     <img src="https://art.ngfiles.com/images/2493000/2493414_constantaura_tux-from-linux.gif?f1651352405" alt="Tux Smile" width="100px"/> -->
