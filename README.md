@@ -1,15 +1,12 @@
-<!--
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=A1C6E3&height=90&section=header"/>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=90&section=header"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=60&section=header" alt="Wave animation header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=80&section=header" alt="Wave animation header" />
   </picture>
-  
-  # WELCOME! Stranger...
-  <img src="https://i.ibb.co/99PcscnG/Merchant-re4.png" alt="RE Merchant with noob tech stack" height="400px"/>
+  <!--<img src="https://i.ibb.co/99PcscnG/Merchant-re4.png" alt="RE Merchant with noob tech stack" height="400px"/>-->
 </div>
--->
   
 <h2 align="center">Welcome Stranger!</h2>
 
