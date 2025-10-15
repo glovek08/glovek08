@@ -39,8 +39,8 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Svelte%205-0d1117?style=flat-square&logo=Svelte&logoColor=FF9247&color=0d1117">
-    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-ffffff?style=flat-square&logo=Svelte&logoColor=FF3E00&color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SvelteKit-0d1117?style=flat-square&logo=Svelte&logoColor=FF9247&color=0d1117">
+    <img alt="SvelteKit" src="https://img.shields.io/badge/Svelte-ffffff?style=flat-square&logo=Svelte&logoColor=FF3E00&color=ffffff">
   </picture>
 </div>
 
