@@ -8,6 +8,9 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=A1C6E3&center=true&vCenter=true&width=700&lines=If+you're+gonna+build+a+time+machine%2C;why+not+do+it+with+some+style%3F!" alt="Doc Brown Quote" />
+</div>
+<div align="center">
   
   [![My Profile BG song](https://img.shields.io/badge/My%20Profile%20BG%20song-8B0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TvK8f_Wz5Zg&list=RDTvK8f_Wz5Zg)
 
@@ -122,7 +125,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=Souls%20Claimed&labelColor=0d1117&countColor=0d1117&style=flat-square&labelTextColor=00BFFF&countTextColor=00BFFF">
     <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fglovek08&label=VIEWS&labelColor=ffffff&countColor=ffffff&style=flat-square&labelTextColor=0366d6&countTextColor=0366d6">
   </picture>
-  
+  <br>
   <!--[![committers.top badge](https://user-badge.committers.top/uruguay/glovek08.svg)](https://user-badge.committers.top/uruguay/glovek08)-->
   <br>
 <!--     <img src="https://www.animatedimages.org/data/media/1618/animated-tux-image-0136.gif" alt="Tux trampoline" width="100px" /> -->
@@ -135,10 +138,6 @@
     </picture>
   </a>
   <br>
-  <small>
-  Holla to my brothers at The Odin Project<br>
-  LOVE U GUYS!!
-  </small>
 </div>
 
 <p align="center"><sub><i>*optimized for dark theme.</i></sub></p>
