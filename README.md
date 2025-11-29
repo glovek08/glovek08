@@ -8,8 +8,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/N342b6qb0soAAAAM/back-to-the-future-marty-mcfly.gif" alt="Doc brown cheer!" width="200" height="150" style="display: block; margin: 0 auto;">
-  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=A1C6E3&center=true&vCenter=true&width=700&lines=If+you're+gonna+build+a+time+machine%2C;why+not+do+it+with+some+style%3F!" alt="Doc Brown Quote" style="display: block; margin: 0 auto;" />
 </div>
 <div align="center">
