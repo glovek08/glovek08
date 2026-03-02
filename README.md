@@ -1,15 +1,20 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0C2378&height=200&section=header&text=𝖂𝖊𝖑𝖈𝖔𝖒𝖊%20𝕾𝖙𝖗𝖆𝖓𝖌𝖊𝖗!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=150&section=header&text=𝖂𝖊𝖑𝖈𝖔𝖒𝖊%20𝕾𝖙𝖗𝖆𝖓𝖌𝖊𝖗!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0C2378&height=180&section=header&text=𝖂𝖊𝖑𝖈𝖔𝖒𝖊%20𝕾𝖙𝖗𝖆𝖓𝖌𝖊𝖗!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=180&section=header&text=𝖂𝖊𝖑𝖈𝖔𝖒𝖊%20𝕾𝖙𝖗𝖆𝖓𝖌𝖊𝖗!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=90&section=header&text=𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇!&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Wave animation header" />
 </svg>
   <!--<img src="https://i.ibb.co/99PcscnG/Merchant-re4.png" alt="RE Merchant with noob tech stack" height="400px"/>-->
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=A1C6E3&center=true&vCenter=true&width=700&lines=If+you're+gonna+build+a+time+machine%2C;why+not+do+it+with+some+style%3F!" alt="Doc Brown Quote" style="display: block; margin: 0 auto;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=B1D5FA&center=true&vCenter=true&width=700&lines=If+you're+gonna+build+a+time+machine%2C;why+not+do+it+with+some+style%3F!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=096FB5&center=true&vCenter=true&width=700&lines=If+you're+gonna+build+a+time+machine%2C;why+not+do+it+with+some+style%3F!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=24&duration=3000&pause=1000&color=096FB5&center=true&vCenter=true&width=700&lines=If+you're+gonna+build+a+time+machine%2C;why+not+do+it+with+some+style%3F!" alt="Doc Brown Quote" />
+  </picture>
 </div>
+
 <div align="center">
   
   [![My Profile BG song](https://img.shields.io/badge/My%20Profile%20BG%20song-8B0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TvK8f_Wz5Zg&list=RDTvK8f_Wz5Zg)
