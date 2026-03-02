@@ -87,12 +87,12 @@
   </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=glovek08&bg_color=0d1117&color=BAD1D9&line=7B878A&point=51E8FC&area_color=0d1117&area=true&hide_border=true">
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=glovek08&bg_color=ffffff&color=24292f&line=d1d5da&point=0366d6&area_color=ffffff&area=true&hide_border=true">
   </picture>
-</div>
+</div> -->
 
 <br>
 
@@ -133,7 +133,7 @@
 
   <a href="https://theodinproject.com" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/odin-lined.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/odin-lined.png">
       <img alt="The Odin Project" height="100" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcurricular.dev%2Fassets%2Fimages%2Fplatforms%2Fodin_project.png">
     </picture>
   </a>
