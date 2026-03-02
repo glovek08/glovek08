@@ -1,9 +1,9 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=A1C6E3&height=150&section=header&text=Welcome%20Stranger!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=150&section=header&text=Welcome%20Stranger!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=90&section=header&text=Welcome%20Stranger!&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Wave animation header" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0C2378&height=200&section=header&text=𝖂𝖊𝖑𝖈𝖔𝖒𝖊%20𝕾𝖙𝖗𝖆𝖓𝖌𝖊𝖗!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=150&section=header&text=𝖂𝖊𝖑𝖈𝖔𝖒𝖊%20𝕾𝖙𝖗𝖆𝖓𝖌𝖊𝖗!&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=90&section=header&text=𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇!&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Wave animation header" />
+</svg>
   <!--<img src="https://i.ibb.co/99PcscnG/Merchant-re4.png" alt="RE Merchant with noob tech stack" height="400px"/>-->
 </div>
 
@@ -144,7 +144,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=A1C6E3&height=100&section=footer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0C2378&height=100&section=footer"/>
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=100&section=footer"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=096FB5&height=60&section=header" alt="Wave animation header" />
   </picture>
