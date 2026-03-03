@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  [![My Profile BG song](https://img.shields.io/badge/My%20Profile%20BG%20song-8B0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TvK8f_Wz5Zg&list=RDTvK8f_Wz5Zg)
+  [![My Profile BG song](https://img.shields.io/badge/My%20Profile%20BG%20song-D90233?style=flat-round&logo=youtube&logoColor=white)](https://youtu.be/DuoCd7UEkpc?list=RDDuoCd7UEkpc)
 
 </div>
 
