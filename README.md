@@ -24,50 +24,20 @@
   <details>
     <summary><b>Recruiters Click Here</b></summary>
     <br>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU1aHJxZDZrNnRhb28yZnpxYWd5cXk5dDM5NHVneWNkNmtpNzU4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etOX3h7ApZuDe7Fc5w/giphy.gif" width="300" height="300" alt="not today"/>
-    <br><br>
-  </details>
-
-  <details>
-    <summary><b>My Code Review Process</b></summary>
+    <img src="./giphy.gif" width="300" height="300" alt="not today"/>
     <br>
-
-```
-   ┌─────────────────────────────────┐
-   │                                 │
-   │   1. write code                 │
-   │   2. mass comment it            │
-   │   3. mass uncomment it          │
-   │   4. mass rename everything     │
-   │   5. mass refactor everything   │
-   │   6. mass regret everything     │
-   │   7. mass fix everything        │
-   │   8. mass push everything       │
-   │   9. mass commit crisis         │
-   │  10. mass deploy everything     │
-   │                                 │
-   │   ship it ✅                    │
-   │                                 │
-   └─────────────────────────────────┘
-```
-
+    <div align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=2000&color=B1D5FA&center=true&vCenter=true&repeat=false&width=500&lines=...anyway.+Here's+what+I+actually+ship+with." />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=2000&color=0C2378&center=true&vCenter=true&repeat=false&width=500&lines=...anyway.+Here's+what+I+actually+ship+with." />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=2000&color=096FB5&center=true&vCenter=true&repeat=false&width=500&lines=...anyway.+Here's+what+I+actually+ship+with." alt="Transition text" />
+    </picture>
+  </div>
   </details>
 
 </div>
 
 <br>
-
-<div align="center">
-
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=2000&color=B1D5FA&center=true&vCenter=true&repeat=false&width=500&lines=...anyway.+Here's+what+I+actually+ship+with." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=2000&color=0C2378&center=true&vCenter=true&repeat=false&width=500&lines=...anyway.+Here's+what+I+actually+ship+with." />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=18&duration=4000&pause=2000&color=096FB5&center=true&vCenter=true&repeat=false&width=500&lines=...anyway.+Here's+what+I+actually+ship+with." alt="Transition text" />
-  </picture>
-
-
-</div>
 
 <br>
 
@@ -76,16 +46,20 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&color=0d1117">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688&color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Axum-0d1117?style=for-the-badge&logo=rust&logoColor=F74C00&color=0d1117">
+    <img alt="Axum" src="https://img.shields.io/badge/Axum-ffffff?style=for-the-badge&logo=rust&logoColor=000000&color=ffffff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SvelteKit-0d1117?style=for-the-badge&logo=Svelte&logoColor=FF9247&color=0d1117">
-    <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-ffffff?style=for-the-badge&logo=Svelte&logoColor=FF3E00&color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Leptos-0d1117?style=for-the-badge&logo=leptos&logoColor=EF4444&color=0d1117">
+    <img alt="Leptos" src="https://img.shields.io/badge/Leptos-ffffff?style=for-the-badge&logo=rust&logoColor=EF4444&color=ffffff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=MySql&logoColor=618EFF&color=0d1117">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=MySql&logoColor=4479A1&color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Svelte5-0d1117?style=for-the-badge&logo=Svelte&logoColor=FF9247&color=0d1117">
+    <img alt="SvelteKit" src="https://img.shields.io/badge/Svelte5-ffffff?style=for-the-badge&logo=Svelte&logoColor=FF3E00&color=ffffff">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6E9FFF&color=0d1117">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1&color=ffffff">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=MongoDB&logoColor=47A248&color=0d1117">
@@ -98,20 +72,16 @@
 <div align="center">
 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Wasm-0d1117?style=flat-square&logo=webassembly&logoColor=9B7BFF">
+    <img alt="WebAssembly" src="https://img.shields.io/badge/Wasm-ffffff?style=flat-square&logo=webassembly&logoColor=654FF0">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=socketdotio&logoColor=61DAFB">
+    <img alt="WebSockets" src="https://img.shields.io/badge/WebSocket-ffffff?style=flat-square&logo=socketdotio&logoColor=010101">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubuntu-0d1117?style=flat-square&logo=Kubuntu&logoColor=47F0FF">
     <img alt="Kubuntu" src="https://img.shields.io/badge/Kubuntu-ffffff?style=flat-square&logo=Kubuntu&logoColor=0079C1">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VSCodium-0d1117?style=flat-square&logo=vscodium&logoColor=7D9FFF">
-    <img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-ffffff?style=flat-square&logo=vscodium&logoColor=2F80ED">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sublime-0d1117?style=flat-square&logo=sublime-text&logoColor=FFC670">
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime-ffffff?style=flat-square&logo=sublime-text&logoColor=FF9800">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Warp-0d1117?style=flat-square&logo=warp&logoColor=70B7FF">
-    <img alt="Warp" src="https://img.shields.io/badge/Warp-ffffff?style=flat-square&logo=warp&logoColor=01A4FF">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8798E6">
