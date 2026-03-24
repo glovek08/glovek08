@@ -15,7 +15,7 @@
 
 <br>
 
-<!-- This part is supposed to look unhinged. It's lormde. -->
+<!-- This part is supposed to look unhinged. It's lore. -->
 
 
 <br>
@@ -24,7 +24,7 @@
   <details>
     <summary><b>Recruiters Click Here</b></summary>
     <br>
-    <img src="./giphy.gif" width="300" height="300" alt="not today"/>
+    <img src="./giphy_1.gif" width="300" height="300" alt="not today"/>
     <br>
     <div align="center">
       <picture>
