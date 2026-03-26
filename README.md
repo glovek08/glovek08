@@ -11,6 +11,80 @@
   <img src="http://readme-sp.glovek08papacito.uk/card/glovek08?theme=dark"
     alt="GitHub profile card for glovek08">
 </picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Axum-0d1117?style=for-the-badge&logo=rust&logoColor=F74C00&color=0d1117">
+    <img alt="Axum" src="https://img.shields.io/badge/Axum-ffffff?style=for-the-badge&logo=rust&logoColor=000000&color=ffffff">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Leptos-0d1117?style=for-the-badge&logo=leptos&logoColor=EF4444&color=0d1117">
+    <img alt="Leptos" src="https://img.shields.io/badge/Leptos-ffffff?style=for-the-badge&logo=leptos&logoColor=EF4444&color=ffffff">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Svelte5-0d1117?style=for-the-badge&logo=Svelte&logoColor=FF9247&color=0d1117">
+    <img alt="SvelteKit" src="https://img.shields.io/badge/Svelte5-ffffff?style=for-the-badge&logo=Svelte&logoColor=FF3E00&color=ffffff">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6E9FFF&color=0d1117">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1&color=ffffff">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=MongoDB&logoColor=47A248&color=0d1117">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=47A248&color=ffffff">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Wasm-0d1117?style=flat-square&logo=webassembly&logoColor=9B7BFF">
+    <img alt="WebAssembly" src="https://img.shields.io/badge/Wasm-ffffff?style=flat-square&logo=webassembly&logoColor=654FF0">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=socketdotio&logoColor=61DAFB">
+    <img alt="WebSockets" src="https://img.shields.io/badge/WebSocket-ffffff?style=flat-square&logo=socketdotio&logoColor=010101">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubuntu-0d1117?style=flat-square&logo=Kubuntu&logoColor=47F0FF">
+    <img alt="Kubuntu" src="https://img.shields.io/badge/Kubuntu-ffffff?style=flat-square&logo=Kubuntu&logoColor=0079C1">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8798E6">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=2496ED">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Cypress-0d1117?style=flat-square&logo=Cypress&logoColor=71DE76">
+    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-ffffff?style=flat-square&logo=Cypress&logoColor=17202C">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DBeaver-0d1117?style=flat-square&logo=DBeaver&logoColor=F08469">
+    <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-ffffff?style=flat-square&logo=DBeaver&logoColor=382923">
+  </picture>
+
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ngrok-0d1117?style=flat-square&logo=ngrok&logoColor=9E76FF">
+    <img alt="ngrok" src="https://img.shields.io/badge/ngrok-ffffff?style=flat-square&logo=ngrok&logoColor=1F1E37">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9F47">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazonwebservices&logoColor=232F3E">
+  </picture>
+</div>
+
+<br>
+
+<!-- Consistency isn't a personality trait, it's a lifestyle -->
 
 <hr>
 
