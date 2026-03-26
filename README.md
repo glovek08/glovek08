@@ -11,6 +11,9 @@
   <img src="http://readme-sp.glovek08papacito.uk/card/glovek08?theme=dark"
     alt="GitHub profile card for glovek08">
 </picture>
+
+<hr>
+
  <div align="center">
     <a href="https://wakatime.com/@63b20a4e-5b59-4d73-b9cb-b538e68137e5">
       <picture>
