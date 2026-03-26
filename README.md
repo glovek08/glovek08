@@ -77,8 +77,12 @@
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9F47">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazonwebservices&logoColor=232F3E">
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/AWS-0d1117?style=flat-square&logo=aws&logoColor=FF9F47">
+    <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-ffffff?style=flat-square&logo=aws&logoColor=FF9900">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=F6A623">
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-ffffff?style=flat-square&logo=cloudflare&logoColor=F38020">
   </picture>
 </div>
 
