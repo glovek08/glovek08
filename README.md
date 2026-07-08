@@ -81,6 +81,10 @@
     <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-ffffff?style=flat-square&logo=aws&logoColor=FF9900">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Azure-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
+    <img alt="Microsoft Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=F6A623">
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-ffffff?style=flat-square&logo=cloudflare&logoColor=F38020">
   </picture>
@@ -88,34 +92,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Azure-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
-    <img alt="Microsoft Azure" src="https://custom-icon-badges.demolab.com/badge/Azure-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Container_Apps-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
-    <img alt="Azure Container Apps" src="https://custom-icon-badges.demolab.com/badge/Container_Apps-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Azure_Functions-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
-    <img alt="Azure Functions" src="https://custom-icon-badges.demolab.com/badge/Azure_Functions-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Entra_ID-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
-    <img alt="Microsoft Entra ID" src="https://custom-icon-badges.demolab.com/badge/Entra_ID-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/App_Insights-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
-    <img alt="Application Insights" src="https://custom-icon-badges.demolab.com/badge/App_Insights-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Azure_SQL-0d1117?style=flat-square&logo=azure&logoColor=50A6FF">
-    <img alt="Azure SQL" src="https://custom-icon-badges.demolab.com/badge/Azure_SQL-ffffff?style=flat-square&logo=azure&logoColor=0078D4">
-  </picture>
-</div>
-
-<br>
 
 <!-- Consistency isn't a personality trait, it's a lifestyle -->
 
