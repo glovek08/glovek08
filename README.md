@@ -98,17 +98,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://wakatime.com/@63b20a4e-5b59-4d73-b9cb-b538e68137e5">
-    <picture>
-      <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/8b8812e1-48c7-4d59-84f7-cd2e22bc3c3b.svg" />
-      <img 
-          alt="WakaTime stats" 
-          src="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/66873f14-5f91-4b54-966f-3592d70cfde3.svg" 
-          width="600" />
-    </picture>
-  </a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/5af60c5a-a07f-4805-aca9-62da59130aea.png" /></a>
 </div>
 
 <div align="center">
