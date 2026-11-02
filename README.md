@@ -98,13 +98,20 @@
 <hr>
 
 <div align="center">
-<a href="https://wakatime.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/4612aa33-ed8f-4455-b53f-b221dd32b241.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/183a8781-aebe-467c-a38d-84bc2286b86c.png">
-    <img alt="WakaTime coding stats" src="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/183a8781-aebe-467c-a38d-84bc2286b86c.png">
-  </picture>
-</a>
+  <a href="https://wakatime.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/4612aa33-ed8f-4455-b53f-b221dd32b241.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/183a8781-aebe-467c-a38d-84bc2286b86c.png">
+      <img alt="WakaTime coding stats" src="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/183a8781-aebe-467c-a38d-84bc2286b86c.png">
+    </picture>
+  </a>
+  <a href="https://wakatime.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/a052c638-f334-4bca-bbb3-bd847acef184.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/e9a02409-d50d-4342-a9d5-51e6e7689555.png">
+      <img alt="WakaTime stats" src="https://wakatime.com/share/@63b20a4e-5b59-4d73-b9cb-b538e68137e5/e9a02409-d50d-4342-a9d5-51e6e7689555.png">
+    </picture>
+  </a>
 </div>
 
 <div align="center">
